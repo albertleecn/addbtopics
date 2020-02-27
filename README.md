@@ -5,7 +5,7 @@
 [Virtual Machine & MySQL DB installation](./docs/DbSystemLabEnvForMysql.pdf)
 
 ## Tasks
-Write a report for each task and send me email
+`Write a report for each task and send me email.`
 
 ### Task1
 Task1: Install mysql server and import the test data which is provided by "Database System Concepts 6th Edition", and The Requirements are as follows: <bt/>
@@ -18,12 +18,11 @@ Task1: Install mysql server and import the test data which is provided by "Datab
 
 
 ## Topics
+`Please read.`
 
 ### CAP
 Gilbert, S. and N. Lynch, Perspectives on the CAP Theorem. Computer, 2011. 45(2): p. 30-36. 
 
-
-## Resources
 
 ### books
 
