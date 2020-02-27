@@ -10,7 +10,7 @@ Introduction & CAP theorem
 
 ## Tasks
 `Write a report for each task and send me email.`
-
+**Current Task:** Task1<bt/>
 ### Task2
 [Task2](./tasks/task2): Design a schema for movies, and import all data from movies.csv, and The Requirements are as follows: <bt/>
 1. Data File is in tasks/task2: Movies Data File Structure (movies.csv)
