@@ -27,7 +27,7 @@ Task1: Install mysql server and import the test data which is provided by "Datab
 
 
 ## Topics
-`Please read.`
+`Please read and we will discuss later.`
 
 ### CAP
 Gilbert, S. and N. Lynch, Perspectives on the CAP Theorem. Computer, 2011. 45(2): p. 30-36. 
@@ -42,6 +42,6 @@ Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th E
 
 
 ### Test Data for MySQL
-These files are in resources:<br/>
+`These files are in resources:`<br/>
 DDL_createtbwithpredrop.sql<br/>
 largeRelationsInsertFile.sql
