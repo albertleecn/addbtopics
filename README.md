@@ -2,7 +2,11 @@
 
 ## Lectures
 
+### Lecture2
 [Virtual Machine & MySQL DB installation](./docs/DbSystemLabEnvForMysql.pdf)
+
+### Lecture1
+Introduction: CAP theorem
 
 ## Tasks
 `Write a report for each task and send me email.`
@@ -16,7 +20,6 @@ Task1: Install mysql server and import the test data which is provided by "Datab
 
 
 
-
 ## Topics
 `Please read.`
 
@@ -24,7 +27,9 @@ Task1: Install mysql server and import the test data which is provided by "Datab
 Gilbert, S. and N. Lynch, Perspectives on the CAP Theorem. Computer, 2011. 45(2): p. 30-36. 
 
 
-### books
+## Resources
+
+### Books
 
 Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th Edition**. McGraw-Hill, ISBN 0-07-352332-1
 
