@@ -14,10 +14,7 @@ Movie information is contained in the file `movies.csv`. Each line of this file 
 
     movieId,title,genres
 
-Movie titles are entered manually or imported from <https://www.themoviedb.org/>, and include the year of release in parentheses. Errors and inconsistencies may exist in these titles.
-
 Genres are a pipe-separated list, and are selected from the following:
-
 * Action
 * Adventure
 * Animation
@@ -37,3 +34,7 @@ Genres are a pipe-separated list, and are selected from the following:
 * War
 * Western
 * (no genres listed)
+
+## Source
+Movie titles are entered manually or imported from <https://www.themoviedb.org/>, and include the year of release in parentheses. Errors and inconsistencies may exist in these titles.
+
