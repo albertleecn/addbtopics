@@ -6,6 +6,10 @@
 
 ## Topics
 
+### CAP
+Gilbert, S. and N. Lynch, Perspectives on the CAP Theorem. Computer, 2011. 45(2): p. 30-36.
+
+
 ## Resources
 
 ### books
