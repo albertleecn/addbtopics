@@ -9,7 +9,7 @@
 Introduction & CAP theorem
 
 ## Tasks
-`Write a report for each task and send me email.`
+`Write a report for each task and send me email.`<bt/>
 **Current Task:** Task1<bt/>
 ### Task2
 [Task2](./tasks/task2): Design a schema for movies, and import all data from movies.csv, and The Requirements are as follows: <bt/>
