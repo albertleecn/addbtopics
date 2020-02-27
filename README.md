@@ -6,13 +6,13 @@
 [Virtual Machine & MySQL DB installation](./docs/DbSystemLabEnvForMysql.pdf)
 
 ### Lecture1
-Introduction: CAP theorem
+Introduction & CAP theorem
 
 ## Tasks
 `Write a report for each task and send me email.`
 
 ### Task2
-Task2: Design a schema for movies, and import all data from movies.csv, and The Requirements are as follows: <bt/>
+[Task2](./tasks/task2): Design a schema for movies, and import all data from movies.csv, and The Requirements are as follows: <bt/>
 1. Data File is in tasks/task2: Movies Data File Structure (movies.csv)
 2. retrieve the number of movies in each genre
 3. reverse engineer the new schema
@@ -33,6 +33,7 @@ Task1: Install mysql server and import the test data which is provided by "Datab
 Gilbert, S. and N. Lynch, Perspectives on the CAP Theorem. Computer, 2011. 45(2): p. 30-36. 
 
 
+
 ## Resources
 
 ### Books
@@ -41,6 +42,6 @@ Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th E
 
 
 ### Test Data for MySQL
-These files are in 
+These files are in resources<br/>
 DDL_createtbwithpredrop.sql<br/>
 largeRelationsInsertFile.sql
