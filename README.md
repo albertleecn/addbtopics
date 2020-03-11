@@ -12,24 +12,24 @@
 Introduction & CAP theorem
 
 ## Tasks
-`Write a report for each task and send me email.`<bt/>
-**Current Task:** Task2<bt/>
+`Write a report for each task and send me email.`<br/>
+**Current Task:** Task2<br/>
 
 ### Task3
-[Task3](./tasks/task3):Design full relational schemas for movies<bt/>
-[Datasets 1GB](https://github.com/albertleecn/MovieLensDataset)<bt/>
+[Task3](./tasks/task3):Design full relational schemas for movies <br/>
+[Datasets 1GB](https://github.com/albertleecn/MovieLensDataset) <br/>
 
 References: <br/>
 F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
 
 ### Task2
-[Task2](./tasks/task2): Design a schema for movies, and import all data from movies.csv, and The Requirements are as follows: <bt/>
+[Task2](./tasks/task2): Design a schema for movies, and import all data from movies.csv, and The Requirements are as follows: <br/>
 1. Data File is in tasks/task2: Movies Data File Structure (movies.csv)
 2. retrieve the number of movies in each genre
 3. reverse engineer the new schema
 
 ### Task1
-Task1: Install mysql server and import the test data which is provided by "Database System Concepts 6th Edition", and The Requirements are as follows: <bt/>
+Task1: Install mysql server and import the test data which is provided by "Database System Concepts 6th Edition", and The Requirements are as follows: <br/>
 1. create a database schema in mysql, the new schema's name is your student id
 2. import the test data (DDL_createtbwithpredrop & largeRelationsInsertFile)
 3. retrieve the number of students in each department
@@ -57,7 +57,6 @@ Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th E
 
 
 ### Test Data for MySQL
-`These files are in task1:`<br/>
-[DDLcreatetbwithpredrop.sql](./tasks/task1/DDLcreatetbwithpredrop.sql)
-
+`These files are in task1:` <br/>
+[DDLcreatetbwithpredrop.sql](./tasks/task1/DDLcreatetbwithpredrop.sql)<br/>
 [largeRelationsInsertFile.sql](./tasks/task1/largeRelationsInsertFile.sql)
