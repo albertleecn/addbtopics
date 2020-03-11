@@ -29,7 +29,7 @@ Task1: Install mysql server and import the test data which is provided by "Datab
 
 
 
-## Topics
+## Readings
 `Please read and we will discuss later.`
 
 ### Google File System & Bigtable
