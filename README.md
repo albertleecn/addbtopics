@@ -33,7 +33,7 @@ Task1: Install mysql server and import the test data which is provided by "Datab
 `Please read and we will discuss later.`
 
 ### Google File System & Bigtable
-[Ghemawat, S., H. Gobioff, and S.T. Leung, The Google file system. Acm Sigops Operating Systems Review, 2003. 37(5): p. 29-43.](./docs/GoogleFileSystem_ghemawat.pdf)
+Ghemawat, S., H. Gobioff, and S.T. Leung, [The Google file system]. Acm Sigops Operating Systems Review, 2003. 37(5): p. 29-43.(./docs/GoogleFileSystem_ghemawat.pdf)
 
 [Chang, F., et al., Bigtable:A Distributed Storage System for Structured Data. Acm Transactions on Computer Systems, 2008. 26(2): p. 1-26.](./docs/BigtableADistributedStorageSystemforStructuredDatachang.pdf)
 
