@@ -13,7 +13,14 @@ Introduction & CAP theorem
 
 ## Tasks
 `Write a report for each task and send me email.`<bt/>
-**Current Task:** Task1<bt/>
+**Current Task:** Task2<bt/>
+
+### Task3
+[Task3](./tasks/task3):Design full relational schemas for movies<bt/>
+[Datasets 1GB](https://github.com/albertleecn/MovieLensDataset)
+References:<bt/>
+F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
+
 ### Task2
 [Task2](./tasks/task2): Design a schema for movies, and import all data from movies.csv, and The Requirements are as follows: <bt/>
 1. Data File is in tasks/task2: Movies Data File Structure (movies.csv)
@@ -30,7 +37,7 @@ Task1: Install mysql server and import the test data which is provided by "Datab
 
 
 ## Readings
-`Please read and we will discuss later.`
+`Please read them and we will discuss later.`
 
 ### Google File System & Bigtable
 [Ghemawat, S., H. Gobioff, and S.T. Leung, The Google file system. Acm Sigops Operating Systems Review, 2003. 37(5): p. 29-43.](./docs/GoogleFileSystem_ghemawat.pdf)
@@ -50,5 +57,5 @@ Avi Silberschatz, Henry F. Korth, S. Sudarshan. **Database System Concepts 6th E
 
 ### Test Data for MySQL
 `These files are in resources:`<br/>
-DDL_createtbwithpredrop.sql<br/>
+DDLcreatetbwithpredrop.sql<br/>
 largeRelationsInsertFile.sql
