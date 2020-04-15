@@ -2,6 +2,12 @@
 
 ## Lectures
 
+### Lecture 7
+The Byzantine Generals Problem
+
+### Lecture4~6
+SQL Languages
+
 ### Lecture3
 [Relational Model](./lectures/DbSystemRDbModel.pdf)
 
@@ -13,7 +19,12 @@ Introduction & CAP theorem
 
 ## Tasks
 `Write a report for each task and send me email.`<br/>
-**Current Task:** Task2<br/>
+**Current Task:** Task3<br/>
+### Task4
+Read the following paper and finish one report: write a report for presenting all the steps using OM(3) and comment the paper. <br/>
+
+Lamport, et al. "The Byzantine Generals Problem." Acm Transactions on Programming Languages & Systems 4.3(1982):382-401.
+
 
 ### Task3
 [Task3](./tasks/task3):Design full relational schemas for movies <br/>
