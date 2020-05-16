@@ -2,6 +2,21 @@
 
 ## Lectures
 
+#### The Relational Theory Design: Normal Form
+[The Relational Theory Design](./lectures/lecture008DbSystemBCNFR6.pdf)
+
+#### The E-R Model
+[E-R Model](./lectures/lecture007DbSystemERModelR6.pdf)
+
+#### Relational Algebra & Calculus
+[Relational Algebra & Calculus](./lectures/lecture006DbSystemRelationalAlgebraCalculus.pdf)
+
+#### The SQL Language
+[SQL Language](./lectures/lecture003DbSystemSQL1basicR6.pdf)
+
+#### Lecture 8: The Paxos Consensus
+[The The Paxos Consensus](./docs/lamport-paxos.pdf)
+
 ### Lecture 7
 The Byzantine Generals Problem
 
