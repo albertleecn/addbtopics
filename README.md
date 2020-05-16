@@ -1,5 +1,10 @@
 # Database Topics
 
+## final report
+`Very Important Notice May 16, 2020`
+Please write a final report about database and distributed system, this final report as one part of final grade is very important.
+Please Submit this final report before June 20, 2020.
+
 ## Lectures
 
 #### The Relational Theory Design: Normal Form
@@ -34,7 +39,7 @@ Introduction & CAP theorem
 
 ## Tasks
 `Write a report for each task and send me email.`<br/>
-**Current Task:** Task3<br/>
+**Current Task:** Task4<br/>
 ### Task4
 Read the following paper and finish one report: write a report for presenting all the steps using OM(3) and comment the paper. <br/>
 
